@@ -1,0 +1,17 @@
+
+[Time: 14:17]: 
+[WindowName: Start.py - python-keylogger-master - Visual Studio Code]: <ENTER>
+
+[WindowName: Search]: <BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE><BACKSPACE>
+
+[WindowName: (37) WhatsApp - Google Chrome]: hello everyone<ENTER>
+
+[WindowName: Task Switching]:  <TAB>
+
+[WindowName: 7b6c4f721dbe369f311b012d01cf1e83.txt - python-keylogger-master - Visual Studio Code]: <ENTER>
+<BACKSPACE><ENTER>
+cd python*<ENTER>
+python log_decryptor<ENTER>
+.py<ENTER>
+
+- Message decryption error -
